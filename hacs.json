@@ -1,0 +1,6 @@
+{
+    "name": "Lovelace Digital Clock",
+    "content_in_root": true,
+    "filename": "digital-clock.js",
+    "render_readme": true
+}
